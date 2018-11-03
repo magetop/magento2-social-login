@@ -1,2 +1,26 @@
-# magento2-social-login
-Magento 2 Social Login extension is designed for quick login to your Magento 2 store without processing complex register steps.
+# Magento 2 Social Login by MageTop
+
+**Magento 2 Social Login Extension** by MageTop is designed for quick login to your Magento 2 store without processing complex register steps.
+
+## Highlight features
+
+- Quickly login, Popover login form.
+- Easy custom design fit with your store design.
+- Compatible out-of-the-box with the 3rd-party modules.
+- Increase signup rate up-to 30%.
+- Support Facebook Login, FourSquare Login, GitHub Login, Google Login, Instagram Login, LinkedIn Login, Microsoft Live Login, Twitter Login, Vkontakte Login, Yahoo Login ...
+- 100% Open-source, Support multi-store, Support multi-language.
+- Easy to install and customize.
+- And many more feature ...
+
+## More features & Demo
+
+- Extension details : https://www.magetop.com/magento-2-social-login-extension.html
+- Frontend demo : https://magento2.demo.magetop.com/demo-full
+- Backend demo : https://magento2.demo.magetop.com/demo-full/admin
+
+## Support & Contact info
+
+- Need help setting up or want to customize this extension to meet your business needs? 
+- Get instant support with our Live Chat
+- Send Us an email to info@magetop.com or Contact Us : https://www.magetop.com/contacts
