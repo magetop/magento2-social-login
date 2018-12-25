@@ -1,7 +1,7 @@
 # Magento 2 Social Login by MageTop
 
-**Magento 2 Social Login Extension** by MageTop is designed for quick login to your Magento 2 store without processing complex register steps. 
-Allows high security and quick ajax login, support 10+ most popular social networks, shortening customers' decision making steps. 
+**Magento 2 Social Login Extension** by MageTop is designed for quick login to your Magento 2 store without processing complex register steps.
+Allows high security and quick ajax login, support 10+ most popular social networks, shortening customers' decision making steps.
 Let say goodbye to the complicated registration process and ignore a lot of unnecessarily required fields.
 
 ## Highlight features
