@@ -16,10 +16,10 @@
 ## More features & demo
 
 - Extension details : https://www.magetop.com/magento-2-social-login-extension.html
-- Frontend demo : https://magento2.demo.magetop.com/demo-full
-- Frontend login page demo : https://magento2.demo.magetop.com/demo-full/customer/account/login
-- Frontend create page demo : https://magento2.demo.magetop.com/demo-full/customer/account/create
-- Backend demo : https://magento2.demo.magetop.com/demo-full/admin
+- Frontend demo : https://demo.magetop.com/demo-full
+- Frontend login page demo : https://demo.magetop.com/demo-full/customer/account/login
+- Frontend create page demo : https://demo.magetop.com/demo-full/customer/account/create
+- Backend demo : https://demo.magetop.com/demo-full/admin
 
 ## Support & contact info
 
